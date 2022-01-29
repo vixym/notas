@@ -1,0 +1,8 @@
+Mostrar User & Email
+$git --list
+
+Crear o cambiar User
+$git config --global user.name "USERNAME"
+
+Crear o cambiar Email
+$git config --global user.email "EMAIL"
